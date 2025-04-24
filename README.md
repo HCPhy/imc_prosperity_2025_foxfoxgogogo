@@ -1,7 +1,7 @@
 # IMC Prosperity Competition 2025 Solutions  
 **Team foxfoxgogogo**  
-- **Hanchen Liu** (Team Captain), Boston College  
-- **Xiaoyong Zhang**, Georgia Tech  
+- **Hanchen Liu** (Team Captain), Boston College ( https://hanchenliuphy.alphaxiv.io )
+- **Xiaoyong Zhang**, Georgia Tech  ( https://www.linkedin.com/in/xiaoyong-zhang/ )
 
 ---
 
