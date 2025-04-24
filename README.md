@@ -80,9 +80,10 @@ This repository contains our trading algorithms for the first three rounds of th
 
 ---
 
-## Competition Results  
-- **Rounds 1–2:** Top 188 globally  
-- **Round 3:** Ranked ~400  
+## Competition Results  (over 4187 ranked teams, and 13559 registered teams)
+- **Rounds 1–2:** 182 globally  
+- **Round 3:** 599 golablly
+- **Round 4-5: Not participating due to time constraints. 
 
 ---
 
