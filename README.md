@@ -67,6 +67,9 @@ This repository contains our trading algorithms for the first three rounds of th
 - **Implied volatility** was estimated from the market price via the **volatility smile** methodology  [oai_citation_attribution:8‡Wikipedia](https://en.wikipedia.org/wiki/Volatility_smile?utm_source=chatgpt.com).  
 - A **delta-hedge** was maintained by trading `VOLCANIC_ROCK` to neutralize directional exposure  [oai_citation_attribution:9‡Wikipedia](https://en.wikipedia.org/wiki/Delta_neutral?utm_source=chatgpt.com).
 
+- <img width="360" alt="image" src="https://github.com/user-attachments/assets/f5939af0-ab00-4811-b110-e296a3492c6c" />
+
+
 ---
 
 ### Round 4: Luxury Goods Arbitrage *(Partially Tuned)*  
